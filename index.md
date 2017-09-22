@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages Sergey Loburtsov
 
-You can use the [editor on GitHub](https://github.com/iserjla/iserjla.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can can use the [editor on GitHub](https://github.com/iserjla/iserjla.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -15,7 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+
+- Bullleted
 - List
 
 1. Numbered
